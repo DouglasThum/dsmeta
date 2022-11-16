@@ -5,8 +5,12 @@ function App() {
   return(
     <>
       <Header />
-      <NotificationButtom />
-      <NotificationButtom />
+      <main>
+        <section id="sales">
+          <div className="dsmeta-container">
+          </div>
+        </section>
+      </main>
     </>
   )
 }
