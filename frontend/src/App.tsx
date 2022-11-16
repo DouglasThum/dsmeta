@@ -1,5 +1,6 @@
 import NotificationButtom from "./components/NotificationButtom"
 import Header from "./components/header"
+import SalesCard from "./components/SalesCard"
 
 function App() {
   return(
@@ -8,6 +9,7 @@ function App() {
       <main>
         <section id="sales">
           <div className="dsmeta-container">
+            <SalesCard />
           </div>
         </section>
       </main>
