@@ -1,0 +1,16 @@
+[debug] [2022-12-01T01:48:13.464Z] : 
+[debug] [2022-12-01T01:48:13.465Z] : ----------------------------------------------------------------------
+[debug] [2022-12-01T01:48:13.466Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\Pichau\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js login
+[debug] [2022-12-01T01:48:13.466Z] : CLI Version:  1.13.3
+[debug] [2022-12-01T01:48:13.466Z] : Platform:     win32
+[debug] [2022-12-01T01:48:13.467Z] : Node Version: v16.15.1
+[debug] [2022-12-01T01:48:13.523Z] : Time:         Wed Nov 30 2022 22:48:13 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2022-12-01T01:48:13.524Z] : ----------------------------------------------------------------------
+[debug] [2022-12-01T01:48:13.524Z] : 
+[debug] [2022-12-01T01:48:14.365Z] : migration completed for v1.4.0
+[debug] [2022-12-01T01:48:14.381Z] : migration completed for v1.6.2
+[info] [2022-12-01T01:48:29.515Z] : 
+[info] [2022-12-01T01:48:29.516Z] : Visit this URL on this device to log in:
+[info] [2022-12-01T01:48:29.516Z] : https://accounts.zoho.eu/oauth/v2/auth?client_id=1000.D5IIHDXSPN2MII26AD0V61I6RMVSNM&scope=ZohoCatalyst.apigateway.apis.READ%20ZohoCatalyst.apigateway.apis.CREATE%20ZohoCatalyst.apigateway.apis.UPDATE%20ZohoCatalyst.apigateway.apis.DELETE%20ZohoCatalyst.apigateway.READ%20ZohoCatalyst.apigateway.UPDATE%20ZohoCatalyst.segments.ALL%20ZohoCatalyst.cache.READ%20ZohoCatalyst.cache.CREATE%20ZohoCatalyst.cache.DELETE%20ZohoCatalyst.queue.ALL%20ZohoCatalyst.queue.data.READ%20ZohoCatalyst.queue.data.CREATE%20ZohoCatalyst.projects.ALL%20ZohoCatalyst.project.export.READ%20ZohoCatalyst.project.export.CREATE%20ZohoCatalyst.project.import.READ%20ZohoCatalyst.project.import.CREATE%20ZohoCatalyst.project.import.DELETE%20ZohoCatalyst.cron.ALL%20ZohoCatalyst.zcql.CREATE%20ZohoCatalyst.webapp.ALL%20ZohoCatalyst.projects.users.READ%20ZohoCatalyst.projects.users.CREATE%20ZohoCatalyst.projects.users.DELETE%20ZohoCatalyst.email.CREATE%20ZohoCatalyst.tables.ALL%20ZohoCatalyst.tables.rows.ALL%20ZohoCatalyst.tables.columns.ALL%20ZohoCatalyst.tables.bulk.READ%20ZohoCatalyst.tables.bulk.CREATE%20ZohoCatalyst.folders.ALL%20ZohoCatalyst.files.CREATE%20ZohoCatalyst.files.READ%20ZohoCatalyst.files.DELETE%20ZohoCatalyst.functions.ALL%20ZohoCatalyst.functions.EXECUTE%20ZohoCatalyst.eventlistners.ALL%20ZohoCatalyst.eventlisteners.produce%20ZohoCatalyst.security.rules.Read%20ZohoCatalyst.security.rules.Update%20ZohoCatalyst.notifications.mobile%20ZohoCatalyst.notifications.web%20ZohoCatalyst.search.READ%20ZohoCatalyst.mlkit.READ%20ZohoCatalyst.circuits.execute%20ZohoCatalyst.circuits.execution.READ%20ZohoCatalyst.circuits.execution.DELETE%20ZohoCatalyst.cli.logs.CREATE%20AaaServer.profile.READ%20Stratus.sdkop.CREATE%20Stratus.sdkop.READ&response_type=code&access_type=offline&prompt=consent&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] [2022-12-01T01:48:29.516Z] : 
+[warn] [2022-12-01T01:49:05.460Z] : ‼ Your credentials does not match the DC opted!!!
